@@ -66,3 +66,29 @@ li {
 .green {
   background-color: #28c840;
 }
+
+@media (max-width: 767px) {
+  .box.container {
+    max-width: 90%;
+  }
+  .circle {
+    width: 7px;
+    height: 7px;
+  }
+
+  .dBtn {
+    font-size: 14px;
+  }
+
+  .d-flex {
+    align-items: center;
+  }
+
+  .inp {
+    width: 100%;
+  }
+
+  .btn {
+    width: 50px;
+  }
+}
