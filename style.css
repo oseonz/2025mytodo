@@ -23,9 +23,9 @@ li {
   padding: 0;
 }
 
-.listView {
+/* .listView {
   width: 300px;
-}
+} */
 
 .listView li {
   display: flex;
